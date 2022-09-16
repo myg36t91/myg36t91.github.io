@@ -3,9 +3,9 @@ remote_theme: just-the-docs/just-the-docs
 
 title: XIAO
 
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
-
-# Copyright
-footer_content: "Copyright &copy; :p"
+---
+layout: default
+title: TOEIC
+nav_order: 2
+has_children: true
+---
