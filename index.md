@@ -5,27 +5,14 @@ nav_order: 1
 
 # Home
 
-```verilog
-`timescale 1ns/1ps
-
-model home (
-   input        clk,
-   output reg   dout
-);
-
-always @ (podedge clk) begin
-   dout <= Welcome Home Page ;
-end
-
-endmodel
+```markdown
+Welcome Home Page
 ```
 
-```markdown
-### Hi there.
+Hi there.
 
-##### I’m currently studying master degree in NTUST EE.
-Lab research topics include next-generation networks, information security and artificial intelligence, etc. <br>
-Other fields and skills are learned based on personal interests.
+I’m currently studying master degree in NTUST EE.
+Lab research topics include next-generation networks, information security and artificial intelligence, etc. Other fields and skills are learned based on personal interests.
 
 - Languages
   - Chinese : Native
@@ -48,5 +35,3 @@ Other fields and skills are learned based on personal interests.
  
 Currently I responsible for module FPGA IP develop in company. <br>
 On the other hand, I am also in charge of AI Box Security project of the ITRI now.
-```
-
