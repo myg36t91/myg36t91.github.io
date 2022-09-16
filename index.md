@@ -20,7 +20,7 @@ always @ (podedge clk) begin
       dout <= 0 ;
    end
    else
-      dout <= 「Welcome Home Page.」 ;
+      dout <= Welcome Home Page ;
    end
 end
 
