@@ -1,4 +1,10 @@
+---
+title: Home
+nav_order: 1
+---
+
+# Home
 
 ```markdown
-Welcome to index pages
+Welcome to Home pages
 ```
