@@ -1,6 +1,6 @@
 ---
 title: Listening
-parent: TOEIC
+parent: toeic
 has_children: false
 nav_order: 1
 ---
