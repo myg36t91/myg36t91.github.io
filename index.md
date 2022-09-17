@@ -5,7 +5,7 @@ nav_order: 1
 
 # Home
 
-<span style="color:#750000;"> Welcome Home Page </span> 
+<span style="color:yellow;"> Welcome Home Page. </span> 
 
 Hi there.
 
