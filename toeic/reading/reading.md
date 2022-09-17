@@ -1,6 +1,6 @@
 ---
 title: Reading
-parent: TOEIC
+parent: English
 has_children: true
 nav_order: 2
 ---
