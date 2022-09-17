@@ -3,3 +3,15 @@ remote_theme: just-the-docs/just-the-docs
 
 title: YU-YI, XIAO
 color_scheme: "dark"
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  info:
+    title: Info
+    color: blue
+  new:
+    title: New
+    color: yellow
+  
