@@ -28,7 +28,7 @@ nav_order: 2
 | perceive = detect       察覺     | ingredient = element        成分   | infamous                 無恥的   |                                           |
 | refine                  改善     | invasion = violence         侵犯   | preliminary = preparatory 預備的  |                                           |
 | reveal                  透露     | litter                      垃圾   | stationary = standing    固定的   |                                           |
-| testify = prove         證明     | pact = convention           協定   |                                   |                                          |  
+| testify = prove         證明     | pact = convention           協定   | tremendous = enormous    巨大的   |                                          |  
 | thrive = prosper        繁榮     | pioneer = vanguard         先鋒    |                                  |                                           |
 | withstand = resist      抵擋     | scale                      規模    |                                  |                                           |
 | yell                    叫喊     | scorn                      嘲笑    |                                  |                                           |
