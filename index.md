@@ -5,9 +5,8 @@ nav_order: 1
 
 # Home
 
-```markdown
-Welcome Home Page
-```
+{: .new } Welcome Home Page
+
 
 Hi there.
 
