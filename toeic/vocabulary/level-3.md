@@ -1,7 +1,7 @@
 ---
 title: Level-3
 parent: Vocabulary
-grand_parent: TOEIC
+grand_parent: English
 has_children: false
 nav_order: 2
 ---
