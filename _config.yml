@@ -13,5 +13,9 @@ callouts:
     color: blue
   new:
     title: New
+    color: green
+  note:
+    title: Note
     color: yellow
+  
   
