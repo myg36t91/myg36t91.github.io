@@ -1,7 +1,7 @@
 ---
 title: Test L3
 parent: Listening
-grand_parent: TOEIC
+grand_parent: English
 has_children: false
 nav_order: 1
 ---
