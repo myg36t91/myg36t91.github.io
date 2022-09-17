@@ -1,8 +1,8 @@
 # Build Settings
-remote_theme: minimal-mistakes-jekyll
+remote_theme: just-the-docs/just-the-docs
 
 title: YU-YI, XIAO
-color_scheme: "dark"
+color_scheme: "nil"
 
 callouts_level: quiet # or loud
 callouts:
