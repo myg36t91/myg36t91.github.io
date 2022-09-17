@@ -1,5 +1,5 @@
 # Build Settings
-remote_theme: just-the-docs/just-the-docs
+remote_theme: minimal-mistakes-jekyll
 
 title: YU-YI, XIAO
 color_scheme: "dark"
