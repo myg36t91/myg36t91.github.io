@@ -2,7 +2,7 @@
 remote_theme: just-the-docs/just-the-docs
 
 title: YU-YI, XIAO
-color_scheme: "nil"
+color_scheme: "dark"
 
 callouts_level: quiet # or loud
 callouts:
