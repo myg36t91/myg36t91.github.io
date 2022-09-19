@@ -1,5 +1,5 @@
 ---
-title: Histogram-2
+title: Histogram
 parent: IP
 grand_parent: FPGA
 has_children: false
