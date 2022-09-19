@@ -1,6 +1,8 @@
 ---
 title: IP
-nav_order: 4
+parent: FPGA
+has_children: true
+nav_order: 1
 ---
 
 # IP
