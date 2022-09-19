@@ -1,6 +1,9 @@
 ---
-title: Histogram
-nav_order: 3
+title: Histogram-2
+parent: IP
+grand_parent: FPGA
+has_children: false
+nav_order: 1
 ---
 
 # Histogram
